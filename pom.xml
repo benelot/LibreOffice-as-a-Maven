@@ -1,0 +1,52 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.libreOffice</groupId>
+  <artifactId>LibreOffice-as-a-Maven</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+
+<!-- https://mvnrepository.com/artifact/org.libreoffice/juh -->
+<dependency>
+    <groupId>org.libreoffice</groupId>
+    <artifactId>juh</artifactId>
+    <version>5.3.2</version>
+</dependency>
+
+  <!-- https://mvnrepository.com/artifact/org.libreoffice/jurt -->
+<dependency>
+    <groupId>org.libreoffice</groupId>
+    <artifactId>jurt</artifactId>
+    <version>5.3.2</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.libreoffice/officebean -->
+<dependency>
+    <groupId>org.libreoffice</groupId>
+    <artifactId>officebean</artifactId>
+    <version>5.3.2</version>
+</dependency>
+
+  <!-- https://mvnrepository.com/artifact/org.libreoffice/ridl -->
+<dependency>
+    <groupId>org.libreoffice</groupId>
+    <artifactId>ridl</artifactId>
+    <version>5.3.2</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.libreoffice/unoil -->
+<dependency>
+    <groupId>org.libreoffice</groupId>
+    <artifactId>unoil</artifactId>
+    <version>5.3.2</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.libreoffice/unoloader -->
+<dependency>
+    <groupId>org.libreoffice</groupId>
+    <artifactId>unoloader</artifactId>
+    <version>5.3.2</version>
+</dependency>
+
+  
+  </dependencies>
+</project>
