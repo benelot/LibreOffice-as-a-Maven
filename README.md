@@ -16,6 +16,6 @@ You can use this project as a starting point to write your own applications usin
 
 ## If you really want to get serious about using libreoffice as a service to Java, then...
 Please consider using a framework for this, which handles the startup and shutdown, queueing etc. of tasks for you. Just look into
-[https://github.com/sbraconnier/jodconverter](The maintained version of JODConverter). It features exactly what you are looking for.
+[the maintained version of JODConverter](https://github.com/sbraconnier/jodconverter). It features exactly what you are looking for.
 
 This has been adapted from: [https://github.com/smehrbrodt/libreoffice-starter-extension](smehrbrodt/libreoffice-starter-extension: LibreOffice extension boilerplate)
